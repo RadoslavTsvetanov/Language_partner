@@ -4,7 +4,7 @@ export default function Hompage(){
     return(
  <div className="w-screen bg-blue-600">
   {/* */}
-            <div className="navbar sticky top-0 bg-purple-50 text-black font-adelia">
+  <div className="navbar sticky top-0 bg-purple-50 text-black font-adelia">
   <div className="flex-1">
     <a className="btn btn-ghost normal-case text-xl font-adelia">Name </a>
   </div>
